@@ -1,0 +1,1 @@
+This is a website Where user or freelancers registers themselves to search or request needed jobs of their interest. And any project or job can also be added by the companies who are looking for respective candidates who can willingly complete the projects provided.
